@@ -2,12 +2,12 @@ p {
     background-color: pink; font-family: verdana, dejavu sans, sans-serif;
 
 }
-.2 {
+#number2 {
     color: blue; size: 36px;
 }
-.3 {
+.odd.2 {
     size: 24px;
 }
-.4 {
+#number4 {
     background-color: lightgreen; size: 24px; font-weight: bold;
 }
